@@ -40,7 +40,7 @@ Challenges that require analyzing files, metadata, or extracting hidden data.
 - `CyberChef`
 - `Burp Suite`
 - `Wireshark`
-- Chrome DevTools
+- `Chrome DevTools`
 
 ---
 
